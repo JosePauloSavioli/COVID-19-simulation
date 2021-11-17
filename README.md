@@ -21,4 +21,7 @@ The main code is simulação.py, which receives a couple of arguments:
 - 10: Run tests and additional graphics [-0: no, -1: yes]
 
 Example call for a SEIR simulation with bootstrap using cases and deaths in Brazil. The simulation is done for 200 days and with a validation of 5 days.
+
+'''python
 python simulacao.py -28 -nc85 -oa85 -1 -1-2-0-0 -b -200 -5 -str -0
+'''
