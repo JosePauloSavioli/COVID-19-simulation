@@ -22,6 +22,6 @@ The main code is simulação.py, which receives a couple of arguments:
 
 Example call for a SEIR simulation with bootstrap using cases and deaths in Brazil. The simulation is done for 200 days and with a validation of 5 days.
 
-'''python
+```bash
 python simulacao.py -28 -nc85 -oa85 -1 -1-2-0-0 -b -200 -5 -str -0
-'''
+```
