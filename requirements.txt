@@ -1,0 +1,10 @@
+lmfit
+numpy
+SkillMetrics
+scipy
+matplotlib
+pandas
+psutil
+plotly
+statsmodels
+p-tqdm
